@@ -1,7 +1,6 @@
 package com.automated.training.model;
 
 import lombok.*;
-import org.hibernate.validator.constraints.Length;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
